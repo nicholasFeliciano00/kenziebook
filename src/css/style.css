@@ -240,19 +240,19 @@ nav {
 }
 
 .story1 {
-    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(/src/img/images/perfil.jpg);
+    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(https://github.com/nicholasFeliciano00/kenziebook/blob/master/src/img/images/perfil.jpg?raw=true);
 }
 .story2 {
-    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(/src/img/images/status-2.png);
+    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(https://github.com/nicholasFeliciano00/kenziebook/blob/master/src/img/images/status-2.png?raw=true);
 }
 .story3 {
-    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(/src/img/images/status-3.png);
+    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(https://github.com/nicholasFeliciano00/kenziebook/blob/master/src/img/images/status-3.png?raw=true);
 }
 .story4 {
-    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(/src/img/images/status-4.png);
+    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(https://github.com/nicholasFeliciano00/kenziebook/blob/master/src/img/images/status-4.png?raw=true);
 }
 .story5 {
-    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(/src/img/images/status-5.png);
+    background-image: linear-gradient(transparent, rgba(0,0,0,0.5)), url(https://github.com/nicholasFeliciano00/kenziebook/blob/master/src/img/images/status-5.png?raw=true);
 }
 
 .user-profile {
