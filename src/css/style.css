@@ -335,6 +335,7 @@ nav {
 .atividade-icons div img {
     width: 18px;
     margin-right: 10px;
+    cursor: pointer;
 }
 .atividade-icons div {
     display: inline-flex;
@@ -349,6 +350,9 @@ nav {
     width: 20px;
     border-radius: 50%;
     margin-right: 5px;
+}
+.post-profile-icon i {
+    cursor: pointer;
 }
 .post-row a {
     color: #9a9a9a;
