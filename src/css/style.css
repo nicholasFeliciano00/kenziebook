@@ -192,7 +192,6 @@ nav {
 .list-online {
     display: flex;
     align-items: center;
-    justify-content: space-around;
     margin-bottom: 20px;
 }
 
@@ -213,6 +212,7 @@ nav {
     background-position: center;
     background-size: cover;
     border-radius: 10px;
+    cursor: pointer;
 }
 .story img {
     position: absolute;
