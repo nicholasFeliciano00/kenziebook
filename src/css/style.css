@@ -77,8 +77,8 @@ nav {
 }
 .container {
     display: flex;
-    justify-content: space-between;
-    padding: 13px 5%;   
+    justify-content: center;
+    align-items: center;   
 }
 .left-sidebar {
     flex-basis: 25%;
@@ -87,7 +87,7 @@ nav {
     align-self: flex-start;
 }
 .main {
-    flex-basis: 47%;
+    
 }
 .right-sidebar {
     flex-basis: 25%;
@@ -300,12 +300,12 @@ nav {
     margin-right: 10px;
 }
 .post-container {
-    width: 100%;
+    width: 80%;
     background: var(--bg-color);
     border-radius: 6px;
     padding: 20px;
     color: #626262;
-    margin: 20px 0;
+    margin: 20px auto;
 }
 .user-profile span {
     font-size: 13px;
