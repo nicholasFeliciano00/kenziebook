@@ -101,6 +101,7 @@ nav {
 }
 .post-input-container textarea {
     width: 100%;
+    height: 70px;
     border: 0;
     outline: 0;
     border-bottom: 1px solid #ccc;
@@ -112,6 +113,9 @@ nav {
     margin-top: 10px;
 }
 .add-post-links a {
+    border: 1px solid #E5E5E5;
+    box-shadow: 2px 2px #E5E5E5;
+    padding: 10px;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -150,16 +154,24 @@ nav {
     margin-bottom: 5px;
 }
 
-.post-row {
+.numbers {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 20px 0;
+    border-bottom: 1px solid #E5E5E5;
 }
 
+.atividade-icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
 .atividade-icons div img {
     width: 18px;
     margin-right: 10px;
     cursor: pointer;
+    padding: 20px 0;
 }
 .atividade-icons div {
     display: inline-flex;
@@ -174,9 +186,6 @@ nav {
     width: 20px;
     border-radius: 50%;
     margin-right: 5px;
-}
-.post-profile-icon i {
-    cursor: pointer;
 }
 .post-row a {
     color: #9a9a9a;
